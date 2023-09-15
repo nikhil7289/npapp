@@ -11,7 +11,7 @@ export default function Home() {
     const [foodItem,setFoodItem]= useState([]);
 
     const loadFoodItems =async ()=>{
-      let response = await fetch ("http://localhost:5000/api/auth/foodData",{
+      let response = await fetch ("https://ggofoodbackend.onrender.com/api/auth/foodData",{
          method : "POST",
          headers :{
           "Content-Type": 'application/json'
@@ -63,14 +63,14 @@ export default function Home() {
   </div>
       <div className='container'>
         {
-          foodCat !== []
+          foodCat !== ""
           ?  foodCat.map((data)=>{
             return( <div className='row mb-3'>
               <div key= {data._id} className='fs-3 m-3'> 
                  {data.CategoryName}
               </div>
                <hr />
-               {foodItem !== []
+               {foodItem !== ""
                ?
                 foodItem.filter((items)=>(items.CategoryName === data.CategoryName ) &&(items.name.toLowerCase().includes(search.toLocaleLowerCase())))
                .map(filterItems=>{
