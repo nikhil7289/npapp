@@ -72,7 +72,7 @@ export default function Home() {
                <hr />
                {foodItem !== ""
                ?
-                foodItem.filter((items)=>(items.CategoryName === data.CategoryName ) &&(items.name.toLowerCase().includes(search.toLocaleLowerCase())))
+                foodItem.filter((items)=>(items.CategoryName === data.CategoryName ) &&(items.name.toLowerCase().includes(search.toLowerCase())))
                .map(filterItems=>{
                 return(
                   <div key={filterItems._id} className='col-12 col-md-6 col-lg-3'>
