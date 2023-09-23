@@ -2,13 +2,13 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.google.com/search?sca_esv=567804936&q=gofood+hd+logo&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjHvbOtpMCBAxUNzDgGHa5fCGEQ0pQJegQIDBAB&biw=1280&bih=563&dpr=1.5#imgrc=JeFLTqVNu1VxtM" alt="Project logo"></a>
+ <img width=200px height=200px src="" alt=""></a>
 </p>
 
-<h3 align="center">Netflix-Clone</h3>
+<h3 align="center">Go Food Clone </h3>
 
 
-<p align="center"> I have created Netflix-Clone React Project. Netflix Clone built using React, Redux Toolkit, Firebase, Styled Components, Axios, Node.js, Express and MongoDB.
+<p align="center"> I have created GoFood Clone React Project. GoFood Clone built using React, HTML, CSS/Bootstrap,Javascript,Node.js,react.js,knowledge of database,json,express.js and MongoDB.
 </p>
 
 ## 📝 Table of Contents
@@ -20,7 +20,7 @@
 - [TODO](../TODO.md)
 
 ## 🧐 About <a name = "about"></a>
-The objective of a Netflix clone is to provide quality video content and a seamless user experience..The Netflix clone project's primary objective is to offer users a familiar and enjoyable streaming experience similar to Netflix. It seeks to deliver seamless navigation, personalized content recommendations, and a user-friendly interface that makes discovering and watching movies and shows easy and engaging. By replicating the success of Netflix while possibly incorporating unique features and improvements, the project aims to cater to entertainment enthusiasts worldwide and become a go-to platform for their viewing pleasure.
+Food delivery apps are the new favorite of the people and that is the final verdict. The ease food delivery apps offer to the people who don't want to cook at the end of the day is what makes it more loved than any other apps out there.
 
 <img width="960" alt="Screenshot (16)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/92ddd3a8-08c5-4a4f-ad50-f52fbe435b38">
 
@@ -47,7 +47,7 @@ The objective of a Netflix clone is to provide quality video content and a seaml
 ### Prerequisites
 
 npm install 
-netflix-api key 
+Gofood-api key 
 yarn add 
 Install React Dependencies
 Install Node Dependencies
@@ -55,25 +55,24 @@ Install Node Dependencies
 ### Installing
 A step by step series of examples that tell you how to get a development env running.
 
-npx craete-react-app netlfix-clone
-cd netlfix-ui
-npm start or yarn start
-cd netlfix-api
+npx craete-react-app npapp
+cd backend
+nodemon .\index.js
+cd npapp
 npm start or yarn start
 running project.
 
 ## 🎈 Usage <a name="usage"></a>
 
-With our on-demand OTT platform, you can broadcast movies, TV shows, web series,
-and more while charging the users a monthly subscription fee.
+Food delivery apps are a type of restaurant delivery/ takeout software that connects consumers with local restaurants, grocery stores, convenience stores, etc., by providing a convenient way to order food that's delivered to their doorstep.
 
 
 ## 🚀 Deployment <a name = "deployment"></a>
 
 I have deployed my frontend application on vercel and bankend application on render. 
 
-frontend URL: https://relaxed-mochi-f478e3.netlify.app
-backend URL: https://netflix-backend-dmi6.onrender.com
+frontend URL: --
+backend URL: [https://netflix-backend-dmi6.onrender.com](https://gofood-backend-5xlo.onrender.com)
 
 
 
@@ -89,7 +88,7 @@ backend URL: https://netflix-backend-dmi6.onrender.com
  
 - create signup page.
 - create user account page.
-- create home page and in the including like : Tvshows , movies , myList , search bar etc .
-- Then after if i click home and showing movies and if i clicked movies then it will show my list page .like add movies .& remove movies 
+- create home page and in the including like : Menu Card etc .
+- Then after if i click home and menu and if i clicked food then it will show my list page .like add order .& remove order 
   we can do it this things.
 - And also we can login and logout page and also we can create new user.
