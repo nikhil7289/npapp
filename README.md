@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fgofood-logo%2F&psig=AOvVaw2rd5NkcX_vBX0A-F1PIfhC&ust=1695543093975000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPDe1bakwIEDFQAAAAAdAAAAABAD" alt="Project logo"></a>
+ <img width=200px height=200px src="https://www.google.com/search?sca_esv=567804936&q=gofood+hd+logo&tbm=isch&source=lnms&sa=X&ved=2ahUKEwjHvbOtpMCBAxUNzDgGHa5fCGEQ0pQJegQIDBAB&biw=1280&bih=563&dpr=1.5#imgrc=JeFLTqVNu1VxtM" alt="Project logo"></a>
 </p>
 
 <h3 align="center">Netflix-Clone</h3>
