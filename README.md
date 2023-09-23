@@ -22,7 +22,7 @@
 ## 🧐 About <a name = "about"></a>
 Food delivery apps are the new favorite of the people and that is the final verdict. The ease food delivery apps offer to the people who don't want to cook at the end of the day is what makes it more loved than any other apps out there.
 
-<img width="960" alt="Screenshot (16)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/92ddd3a8-08c5-4a4f-ad50-f52fbe435b38">
+<img width="960" alt="Screenshot (20)" src=""C:\Users\Mahes\OneDrive\Pictures\Screenshots\Screenshot (20).png"">
 
 <img width="960" alt="Screenshot (15)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/e1770a8d-a6e8-4978-a77d-e1f8d4d86632">
 
