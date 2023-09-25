@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzUAgVNxzQQ9S58_wctciU2PNKpCF2kKJog&usqp=CAU" alt="Project logo"></a>
+ <img width=200px height=200px src="https://1000logos.net/wp-content/uploads/2020/10/Gofood-logo.jpg" alt="Project logo"></a>
 </p>
 
 
