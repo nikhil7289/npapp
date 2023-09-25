@@ -2,8 +2,9 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="  ![gofood-logo-0581DE183D-seeklogo com](https://github.com/nikhil7289/npapp/assets/122282658/b1f6b359-bf05-41ef-b289-68a40d462ee9)
-  " alt=""></a>
+
+ <img width=200px height=200px src=" ![gofood-logo-0581DE183D-seeklogo com](https://github.com/nikhil7289/npapp/assets/122282658/012e1dba-2cee-4fcf-8f0d-1190dd658adf)
+  " alt="Project logo"></a>
 </p>
 
 <h3 align="center">Go Food Clone </h3>
