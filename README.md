@@ -3,7 +3,7 @@
 <p align="center">
   <a href="" rel="noopener">
 
- <img width=100px height=100px src=" (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzUAgVNxzQQ9S58_wctciU2PNKpCF2kKJog&usqp=CAU)
+ <img width=200px height=200px src=" (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzUAgVNxzQQ9S58_wctciU2PNKpCF2kKJog&usqp=CAU)
   " alt="Project logo"></a>
 </p>
 
