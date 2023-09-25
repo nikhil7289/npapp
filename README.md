@@ -21,21 +21,9 @@
 
 ## 🧐 About <a name = "about"></a>
 Food delivery apps are the new favorite of the people and that is the final verdict. The ease food delivery apps offer to the people who don't want to cook at the end of the day is what makes it more loved than any other apps out there.
-
-<img width="960" alt="Screenshot (20)" src=""C:\Users\Mahes\OneDrive\Pictures\Screenshots\Screenshot (20).png"">
-
-<img width="960" alt="Screenshot (15)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/e1770a8d-a6e8-4978-a77d-e1f8d4d86632">
+![Screenshot (20)](https://github.com/nikhil7289/npapp/assets/122282658/5d36c26b-f6e6-4fdd-934c-b69501da051f)
 
 
-<img width="960" alt="Screenshot (11)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/2b0dad39-f11b-4ac8-84c4-5cdc25de2753">
-
-<img width="960" alt="Screenshot (12)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/5c830223-f5a6-4484-88f7-9bf63291c82c">
-
-
-<img width="960" alt="Screenshot (13)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/802a9a20-71f7-4077-ba6a-faa2e8522156">
-
-
-<img width="960" alt="Screenshot (14)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/24573da2-f055-4e90-bb47-245e184ed5d6">
 
 
 
