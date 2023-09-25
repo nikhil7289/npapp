@@ -2,10 +2,10 @@
 
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="https://static.vecteezy.com/system/resources/previews/022/100/806/original/netflix-logo-transparent-free-png.png" alt="Project logo"></a>
+ <img width=200px height=200px src="(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwzUAgVNxzQQ9S58_wctciU2PNKpCF2kKJog&usqp=CAU)" alt="Project logo"></a>
 </p>
 
-<h3 align="center">Netflix-Clone</h3>
+
 
 <h3 align="center">Go Food Clone </h3>
 
